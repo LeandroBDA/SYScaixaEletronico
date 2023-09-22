@@ -1,0 +1,15 @@
+/home/leandrobezerra/Projetos/SYScaixaEletronico/obj/Debug/net6.0/SYScaixaEletronico.csproj.AssemblyReference.cache
+/home/leandrobezerra/Projetos/SYScaixaEletronico/obj/Debug/net6.0/SYScaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandrobezerra/Projetos/SYScaixaEletronico/obj/Debug/net6.0/SYScaixaEletronico.AssemblyInfoInputs.cache
+/home/leandrobezerra/Projetos/SYScaixaEletronico/obj/Debug/net6.0/SYScaixaEletronico.AssemblyInfo.cs
+/home/leandrobezerra/Projetos/SYScaixaEletronico/obj/Debug/net6.0/SYScaixaEletronico.csproj.CoreCompileInputs.cache
+/home/leandrobezerra/Projetos/SYScaixaEletronico/bin/Debug/net6.0/SYScaixaEletronico
+/home/leandrobezerra/Projetos/SYScaixaEletronico/bin/Debug/net6.0/SYScaixaEletronico.deps.json
+/home/leandrobezerra/Projetos/SYScaixaEletronico/bin/Debug/net6.0/SYScaixaEletronico.runtimeconfig.json
+/home/leandrobezerra/Projetos/SYScaixaEletronico/bin/Debug/net6.0/SYScaixaEletronico.dll
+/home/leandrobezerra/Projetos/SYScaixaEletronico/bin/Debug/net6.0/SYScaixaEletronico.pdb
+/home/leandrobezerra/Projetos/SYScaixaEletronico/obj/Debug/net6.0/SYScaixaEletronico.dll
+/home/leandrobezerra/Projetos/SYScaixaEletronico/obj/Debug/net6.0/refint/SYScaixaEletronico.dll
+/home/leandrobezerra/Projetos/SYScaixaEletronico/obj/Debug/net6.0/SYScaixaEletronico.pdb
+/home/leandrobezerra/Projetos/SYScaixaEletronico/obj/Debug/net6.0/SYScaixaEletronico.genruntimeconfig.cache
+/home/leandrobezerra/Projetos/SYScaixaEletronico/obj/Debug/net6.0/ref/SYScaixaEletronico.dll

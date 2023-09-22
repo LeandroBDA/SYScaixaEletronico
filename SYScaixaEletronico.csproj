@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Deposito.cs" />
+    <Compile Remove="myDeposito.cs" />
+    <Compile Remove="Sacar.cs" />
+    <Compile Remove="Saldo.cs" />
+    <Compile Remove="Depositar.cs" />
+    <Compile Remove="SaldoAtual.cs" />
+    <Compile Remove="SaldoA.cs" />
+    <Compile Remove="Login.cs" />
+    <Compile Remove="Depositos.cs" />
+    <Compile Remove="Menu.cs" />
+    <Compile Remove="SYScaixa.cs" />
+    <Compile Remove="Sacarvalor.cs" />
+    <Compile Remove="Cadastro.cs" />
+    <Compile Remove="depo.cs" />
+    <Compile Remove="lo.cs" />
+    <Compile Remove="cad.cs" />
+  </ItemGroup>
+
+</Project>
